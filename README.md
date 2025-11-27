@@ -1,7 +1,3 @@
-# 💫 About Me:
-👋 Bienvenue sur mon profil GitHub !<br><br>Vous trouverez ici mes projets liés au développement web, des outils, des tests techniques, et quelques expérimentations personnelles.<br><br>🔧 Stack actuelle : HTML, CSS, JavaScript, Node.js, Git, Docker  <br>🚀 Objectif : progresser en développement fullstack et découvrir de nouvelles technos
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Kakoto) 
 
