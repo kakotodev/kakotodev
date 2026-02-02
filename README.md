@@ -1,7 +1,7 @@
 # Welcome to my profile ! 
 Developper 19 yo, I'm student on [EFREI](https://www.efrei.fr/) </br>
 My goal is to become a better developer every day </br>
-If you want to see my work, click on my Portfolio (work in progress)
+If you want to see my work, click on my [Portfolio](portfolio-kakotodev.vercel.app)
 
 <details>
   <summary>Stats</summary>
