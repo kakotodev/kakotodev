@@ -6,7 +6,7 @@ If you want to see my work, click on my [Portfolio](https://portfolio-kakotodev.
 <details>
   <summary>Stats</summary>
   
-![](https://github-readme-stats.vercel.app/api?username=kakotodev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kakotodev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kakotodev&layout=donut&theme=merko)
+![](https://github-readme-stats-fast.vercel.app/api?username=kakotodev&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=merko)
  
 </details>
